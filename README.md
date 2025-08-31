@@ -1,20 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+Hey 👋 What's up?  
+My name is Jana Wael and I'm a Fourth-Year Computer and Systems Engineering Student at Ain Shams University.  
 
-###
-
-<p align="left">My name is Jana Wael and I'm a Fourth-Year Computer and Systems Engineering Student at Ain Shams University.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
+## About me  
+✨ Creating bugs since **my very first C "Hello World" in 2021** — and loving the debugging journey ever since.  
+📚 I'm currently diving deeper into **Embedded Systems, AUTOSAR, Real-Time OS, and Automotive Cybersecurity**.  
+🎯 Goals: **To become an embedded software engineer who builds reliable, secure, and innovative systems for the automotive industry.**  
+🎲 Fun fact: **When I’m not writing code for microcontrollers, I’m teaching others about them — because sharing knowledge is the best way to learn.**  
 
 ###
 

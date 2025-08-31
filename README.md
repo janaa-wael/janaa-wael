@@ -1,7 +1,7 @@
 # Hey 👋 I'm Jana Wael  
 
 🎓 **Computer and Systems Engineering Student** (Class of 2026) at Ain Shams University  
-🔧 Passionate about **Embedded Systems, AUTOSAR, RTOS, and Automotive Cybersecurity**  
+🔧 Passionate about **Embedded Systems, Embedded Linux, AUTOSAR, and Automotive Cybersecurity**  
 🌍 Based in Cairo, Egypt  
 
 ---

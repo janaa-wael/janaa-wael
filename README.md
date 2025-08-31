@@ -1,52 +1,56 @@
 # Hey 👋 I'm Jana Wael  
 
 🎓 **Computer and Systems Engineering Student** (Class of 2026) at Ain Shams University  
-🔧 Passionate about **Embedded Systems, Embedded Linux, AUTOSAR, and Automotive Cybersecurity**  
+🔧 Passionate about **Embedded Systems, Software Development, and Software Testing**  
 🌍 Based in Cairo, Egypt  
 
 ---
 
 ## 💼 Internships & Training  
 - **Embedded Software Intern – Si-Vision (Jul 2025 – Present)**  
-  - Member of the Runtime Library Team, contributing to open-source projects including **Zephyr OS** and **Picolibc**  
-  - Built a full-featured **Event Manager System** using Modern C++ (OOP, multithreading, design patterns)  
+  - Runtime Library Team contributor to **Zephyr OS** and **Picolibc**  
+  - Built an **Event Manager System** in Modern C++ with OOP, multithreading, and design patterns  
 
 - **Embedded Systems Course – Siemens Academy (Jul 2025 – Present)**  
   - Bootloader fundamentals, UDS Protocol, DoCAN, Secure Booting, OSEK OS, RTE, Cybersecurity concepts  
 
+- **Software Testing Diploma – Edges Academy (Jul 2025 – Present)**  
+  - Learned **unit, integration, validation, and performance testing**  
+  - Exposure to **ISTQB**, **Agile Testing**, ASPICE, and advanced testing methodologies  
+
 - **System Programming – STMicroelectronics (Jul 2024 – Sep 2024)**  
-  - Linux internals: processes, syscalls, GDB, Makefiles, memory allocation, filesystems (MBR, partitions, mounting)  
+  - Linux processes, syscalls, GDB, Makefiles, memory allocation, filesystem internals (MBR, partitions, mounting)  
 
 - **Embedded Essentials Training – Siemens Academy (Jul 2024 – Sep 2024)**  
-  - Embedded C, peripherals (UART, SPI, I2C, CAN, LIN), RTOS basics, AUTOSAR Comm Stack, AUTOSAR OS  
+  - Embedded C, peripherals (UART, SPI, I2C, CAN, LIN), RTOS basics, AUTOSAR OS  
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects (Highlights)  
 - 🔐 **AUTOSAR Crypto Stack** (SHA256, AES, CryIF, CSM, Crypto Driver with mbedTLS integration)  
-- 📡 **Secure Onboard Communication** (AES over UART on STM32 & Blue Pill)  
-- ⚡ **DMA-based Data Transfer + RSA Encryption** on FreeRTOS  
-- 🔥 **UART Bootloader with Flash Programming** on STM32 (HEX parsing, FPEC drivers, jump-to-app)  
-- 🛫 **Airline Reservation System (C++17)** with OOP design, smart pointers, lambdas, JSON persistence  
-- 🌡️ **Seat Temperature Control System** (LM35 + FreeRTOS tasks + diagnostics)  
+- 🛡️ **Secure Onboard Communication** (AES over UART on STM32 & Blue Pill)  
+- ⚡ **DMA-based Data Transfer + RSA Encryption** with FreeRTOS  
+- 🔥 **UART Bootloader with Flash Programming** (HEX parsing, Flash drivers, jump-to-app)  
+- 🛫 **Airline Reservation System (C++17)** — OOP design, smart pointers, lambdas, JSON persistence  
+- 🌡️ **Seat Temperature Control System** (FreeRTOS tasks + diagnostics)  
 - 🔐 **Door Locking System** (ATmega32 dual-ECU with EEPROM, PIR, LCD, UART, I2C)  
 - 🛰️ **GPS Tracking System** (Tiva C + UART + PC map visualization)  
-- 🐚 **Unix-like Shell**, **Heap Memory Manager**, **ls Implementation** (Linux system-level C programming)  
+- 🐚 **Unix-like Shell**, **Heap Memory Manager**, **ls Implementation** — OS-level Linux system programming  
 
 ---
 
 ## 🛠️ Knowledge & Tools  
 - **Embedded OS:** Zephyr, FreeRTOS, OSEK OS, AUTOSAR OS  
-- **Languages:** C, Embedded C, Modern C++, Python, Java, Verilog  
-- **Concepts:** RTOS tasks, drivers, memory management, bootloaders, secure communication, cryptography (AES, RSA, SHA)  
+- **Programming:** C, Embedded C, Modern C++, Python, Java, Verilog  
+- **Software Development:** OOP, Design Patterns, Data Structures & Algorithms, Linux System Programming  
+- **Testing & Quality:** Unit/Integration/Validation Testing, Test Case Design (MC/DC, Pairwise), Agile Testing, ASPICE, ISTQB concepts  
 - **Tools:** STM32CubeIDE, Keil, Eclipse, VS Code, Git, GDB, Proteus, MATLAB/Simulink, Questasim  
 
 ---
 
 ## 🎤 Teaching & Leadership  
-- 👩‍🏫 Delivered **Embedded C** and **AVR workshops** at SemiColon, mentoring students in microcontroller fundamentals and hands-on projects.  
-- 💡 Designed tasks and guided participants through peripherals (GPIO, UART, I2C, LCD, Timers) and driver implementation.  
-- 🏆 Currently serving as **ARM Head at SemiColon**, organizing and leading technical activities, workshops, and mentorship for peers in the embedded systems field.  
+- 👩‍🏫 Delivered **Embedded C** and **AVR workshops** at SemiColon, mentoring students in microcontrollers and hands-on drivers  
+- 🏆 Currently **ARM Head at SemiColon**, leading activities, technical workshops, and peer mentorship  
 
 ---
 
@@ -57,7 +61,7 @@
 
 ---
 
-⭐ *Always curious about how things work under the hood — from bare-metal drivers to OS-level design, and passionate about sharing knowledge with others!*  
+⭐ *Curious about everything from bare-metal drivers to OS design — passionate about building reliable embedded systems, writing clean and efficient software, and ensuring quality through rigorous testing.*  
 
 
 ###

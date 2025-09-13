@@ -40,7 +40,7 @@
 ---
 
 ## 🛠️ Knowledge & Tools  
-- **Embedded OS:** Zephyr, FreeRTOS, OSEK OS, AUTOSAR OS  
+- **Embedded OS:** FreeRTOS, OSEK OS, AUTOSAR OS, Zephyr
 - **Programming:** C, Embedded C, Modern C++, Python, Java, Verilog  
 - **Software Development:** OOP, Design Patterns, Data Structures & Algorithms, Linux System Programming  
 - **Testing & Quality:** Unit/Integration/Validation Testing, Test Case Design (MC/DC, Pairwise), Agile Testing, ASPICE, ISTQB concepts  

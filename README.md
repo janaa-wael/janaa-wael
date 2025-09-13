@@ -7,7 +7,7 @@
 ---
 
 ## 💼 Internships & Training  
-- **Embedded Software Intern – Si-Vision (Jul 2025 – Present)**  
+- **Embedded Software Internship – Si-Vision (Jul 2025 – Present)**  
   - Runtime Library Team contributor to **Zephyr OS** and **Picolibc**  
   - Built an **Event Manager System** in Modern C++ with OOP, multithreading, and design patterns  
 

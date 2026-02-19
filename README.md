@@ -7,16 +7,18 @@
 ---
 
 ## 💼 Internships & Training  
-- **Embedded Software Internship – Si-Vision (Jul 2025 – Present)**  
+
+- **Digital Twin Course – Siemens Academy (Feb 2026 – Sep 2025)**  
+  -Digital twin technologies, covering virtual product design, industrial simulations, and real-world case studies using ROS, FMI, 
+   Siemens simulators, and a capstone digital twin deployment on AWS
+
+
+- **Embedded Software Internship – Si-Vision (Jul 2025 – Sep 2025)**  
   - Runtime Library Team contributor to **Zephyr OS** and **Picolibc**  
   - Built an **Event Manager System** in Modern C++ with OOP, multithreading, and design patterns  
 
 - **Embedded Systems Course – Siemens Academy (Jul 2025 – Present)**  
   - Bootloader fundamentals, UDS Protocol, DoCAN, Secure Booting, OSEK OS, RTE, Cybersecurity concepts  
-
-- **Software Testing Diploma – Edges Academy (Jul 2025 – Present)**  
-  - Learned **unit, integration, validation, and performance testing**  
-  - Exposure to **ISTQB**, **Agile Testing**, ASPICE, and advanced testing methodologies  
 
 - **System Programming – STMicroelectronics (Jul 2024 – Sep 2024)**  
   - Linux processes, syscalls, GDB, Makefiles, memory allocation, filesystem internals (MBR, partitions, mounting)  

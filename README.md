@@ -9,8 +9,8 @@
 ## 💼 Internships & Training  
 
 - **Digital Twin Course – Siemens Academy (Feb 2026 – Sep 2025)**  
-  -Digital twin technologies, covering virtual product design, industrial simulations, and real-world case studies using ROS, FMI, 
-   Siemens simulators, and a capstone digital twin deployment on AWS
+  - Digital twin technologies, covering virtual product design, industrial simulations, and real-world case studies using ROS, FMI, 
+    Siemens simulators, and a capstone digital twin deployment on AWS
 
 
 - **Embedded Software Internship – Si-Vision (Jul 2025 – Sep 2025)**  

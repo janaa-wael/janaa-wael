@@ -29,7 +29,6 @@
 ---
 
 ## 🚀 Projects (Highlights)  
-- 🔐 **AUTOSAR Crypto Stack** (SHA256, AES, CryIF, CSM, Crypto Driver with mbedTLS integration)  
 - 🛡️ **Secure Onboard Communication** (AES over UART on STM32 & Blue Pill)  
 - ⚡ **DMA-based Data Transfer + RSA Encryption** with FreeRTOS  
 - 🔥 **UART Bootloader with Flash Programming** (HEX parsing, Flash drivers, jump-to-app)  
